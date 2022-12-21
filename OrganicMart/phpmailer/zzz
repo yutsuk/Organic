@@ -1,0 +1,25 @@
+INSERT INTO P_PRODUCT VALUES(91, 'Pork', 'Pork is one of the most popular forms of meat in the world. Despite some confusion on the issue, pork is classed as red meat. This is because it contains a large amount of myoglobin, a protein responsible for the red color of meat.', 'pork-meat.jpg', 'Allergy Information', 40, 5, , 'Non-Veg', 85, 110)
+
+INSERT INTO P_PRODUCT VALUES(92, 'Beef', 'When most people think of red meat, they probably imagine beef. There are many different beef products and cuts of beef, ranging from hamburgers to ribeye steaks.', 'beef-meat.jpg', 'Allergy Information', 15, 4, , 'Non-Veg', 85, 110)
+
+INSERT INTO P_PRODUCT VALUES(93, 'Lamb and Mutton', 'Both lamb and mutton are very similar types of meat, with one fundamental difference; Lamb is from a sheep less than one-year-old Mutton is the meat of an adult sheep Just like beef and pork, there are a variety of popular lamb cuts perhaps lamb chops are the most popular.', 'lamb-meat.jpg', 'Allergy Information', 80, 12, , 'Non-Veg', 85, 110)
+
+INSERT INTO P_PRODUCT VALUES(94, 'Chicken', 'Alongside beef and pork, chicken is one of the ‘big three’ popularity-wise. However, chicken is a different classification of meat and comes under the poultry category. People commonly refer to poultry as ‘white meat’. As one of the most popular foods in the world, there are all sorts of chicken-based foods. These range from fried and roasted chicken to chicken soup and even chicken popcorn', 'chicken-meat.jpg', 'Allergy Information', 100, 8, , 'Non-Veg', 85, 110)
+
+INSERT INTO P_PRODUCT VALUES(95, 'Turkey', 'Turkey is another type of white meat, probably best known for its appearance at the Christmas table.It has both a deeper yet drier taste than chicken and is a less prevalent form of poultry.', 'turkey-meat.jpg', 'Allergy Information', 18, 10, , 'Non-Veg', 85, 110)
+
+INSERT INTO P_PRODUCT VALUES(96, 'Venison', 'Venison refers to the flesh of a deer, and it is a traditionally rarer type of meat. In recent years, sales of venison have been soaring as a result of its perceived healthy reputation among consumers.', 'venison-meat.jpg', 'Allergy Information', 40, 12, , 'Non-Veg', 85, 110)
+
+INSERT INTO P_PRODUCT VALUES(97, 'Duck', 'Duck is one of the less popular types of meat. However, it has immense popularity in Chinese populations, where ‘Peking duck’ is a showpiece dish. Like chicken and turkey, we can consider duck as a kind of white meat.', 'duck-meat.jpg', 'Allergy Information', 10, 7, , 'Non-Veg', 85, 110)
+
+INSERT INTO P_PRODUCT VALUES(98, 'Alaskan salmon', 'There’s a debate about whether wild salmon or farmed salmon is the better option. Farmed salmon is significantly cheaper, but it may contain less omega-3s and fewer vitamins and minerals, depending on whether it’s fortified or not. Salmon is a great option for your diet overall, but if your budget allows, opt for the wild variety. Try this grilled salmon recipe with a sweet-tangy glaze for an entrée that’s easy to prepare.', 'salmon.png', 'Allergy Information', 18, 12, , 'Non-Veg', 87, 111)
+
+INSERT INTO P_PRODUCT VALUES(99, 'COD Fish', 'This flaky white fish is a great source of phosphorus, niacin, and vitamin B-12. A 3-ounce cooked portion contains 15 to 20 grams of protein. Try a piccata sauce on top of cod for a nice complement, like in this recipe.', 'Cod-fish.png', 'Allergy Information', 40, 8, , 'Non-Veg', 87, 111)
+
+INSERT INTO P_PRODUCT VALUES(100, 'Herring Fish', 'A fatty fish similar to sardines, herring is especially good smoked. Smoked fish is packed with sodium though, so consume it in moderation. Jamie Oliver’s Mediterranean-style herring linguine uses the fresh version in this recipe.', 'Herring-fish.png', 'Allergy Information', 20, 8, , 'Non-Veg', 87, 111)
+
+INSERT INTO P_PRODUCT VALUES(101, 'Mahi Fish', 'A tropical firm fish, mahi-mahi can hold up to almost any preparation. Because it’s also called dolphinfish, it’s sometimes confused with the mammal dolphin. But don’t worry, they’re completely different.', 'Mahi-mahi-fish.png', 'Allergy Information', 30, 10, , 'Non-Veg', 87, 111)
+
+INSERT INTO P_PRODUCT VALUES(102, 'Mackerel Fish', 'As opposed to leaner white fish, mackerel is an oily fish, rich in healthy fats. King mackerel is a high-mercury fish, so opt for the lower mercury Atlantic or smaller mackerel choices.', 'Mackerel.png', 'Allergy Information', 80, 14, , 'Non-Veg', 87, 111)
+
+INSERT INTO P_PRODUCT VALUES(103, 'Perch Fish', 'Another white fish, perch has a medium texture and can come from the ocean or fresh water. Because of its mild taste, a flavorful panko breading goes well with it, like in this recipe.', 'Perch.png', 'Allergy Information', 14, 5, , 'Non-Veg', 87, 111)
